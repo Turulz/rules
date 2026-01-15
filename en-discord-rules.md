@@ -1,6 +1,6 @@
 # Dicord / Community rules
 
-## 1.00
+## 1
 
 1.00
 A Discord szerverünk célja, hogy egy barátságos, biztonságos közösségi hely legyen, ahol mindenki jól érezheti magát. Az alábbi alapvető szabályok betartása kötelező mindenkire – legyen szó írásról, beszédről vagy privát üzenetről
