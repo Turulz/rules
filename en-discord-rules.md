@@ -1,81 +1,65 @@
-# Dicord / Community rules
+# Discord / Community rules
 
 ## 1
 
 1.00
-A Discord szerverünk célja, hogy egy barátságos, biztonságos közösségi hely legyen, ahol mindenki jól érezheti magát. Az alábbi alapvető szabályok betartása kötelező mindenkire – legyen szó írásról, beszédről vagy privát üzenetről
+Our Discord server exists to be a friendly, safe community space where everyone can feel comfortable. The following basic rules apply to everyone - whether in text, voice, or private messages.
 
-A trágár, sértő vagy csúnya beszéd nem megengedett.
-Tartózkodjatok a durva vagy obszcén kifejezésektől a közösség barátságos légkörének megőrzése érdekében.
-
-Minden túlélőt tisztelned kell, függetlenül attól, hogy kedveled-e vagy sem. Úgy bánj másokkal, ahogy szeretnéd, hogy veled bánjanak.
+You must respect every survivor, whether you like them or not. Treat others the way you want to be treated.
 
 --
 
 1.10
-Szigóruan tilos
+Strictly forbidden
 
-Önsértésre, öngyilkosságra való buzdítás, vagy ezek romantizálása.
+Encouraging self-harm or suicide, or romanticising them.
 
-Állatkínzás, durva erőszakos tartalom megosztása.
+Harassment / bullying: no targeted harassment, dogpiling, stalking, doxxing, threats.
 
-Illegális tartalmak megosztása - ideértve a drogokkal, fegyverekkel kapcsolatos posztokat, valamint a csalásokkal (scam) összefüggő tartalmakat. Pl. csalás, átverés, pénzügyi visszaélés.
+Sharing animal cruelty or graphic violent content.
 
-Bármilyen formában kiskorúak szexualizálása, vagy felnőtt tartalom kiskorúak számára.
+No spam is allowed - this includes mass pings, excessive emojis, link spam, and copypasta flooding.
 
-Más nevében fellépni, vagy hamis profilt használni.
+Sharing illegal content - including posts related to drugs or weapons, as well as content related to scams. For example: fraud, deception, or financial abuse.
 
-Szexizmus, rasszizmus, homofóbia vagy bármilyen gyűlölködő megnyilvánulás.
+Sexualising minors in any form, or sharing adult content with minors.
 
-Pornográf, felnőtt vagy egyéb NSFW tartalom megosztása tilos
+Impersonating others or using a fake profile.
+
+Sexism, racism, homophobia, or any hateful behaviour.
+
+Sharing pornographic, adult, or other NSFW content is forbidden.
 
 TLDR
-Viselkedj normálisan!
+Behave normally!
 
 --
 
 1.20
-A szerveren használt felhasználónevek nem tartalmazhatnak illetlen, sértő, közönséges vagy kifogásolható kifejezéseket
+Advertising other servers, sending invite links, or promoting them is forbidden.
 
-Ha egy felhasználó neve nem felel meg a fenti irányelveknek, akkor a moderátorok/adminok felszólíthatnak a megváltoztatására.
+We do not tolerate advertising in any form. If you want to share your own content (video, artwork), you may only do so in the https://discord.com/channels/1337655121835720716/1397373748289736704 channel, and only if it genuinely adds value and is related to this community.
 
 --
 
 1.30
-Tilos más szerver reklámozása, meghívó linkek küldése vagy promóciója
+Do not join voice channels without permission.
 
-Reklámot semmilyen formában nem tolerálunk. Ha saját tartalmat osztanál meg (videó, művészeti alkotás), azt kizárólag a https://discord.com/channels/1337655121835720716/1339173097298853968  csatornában teheted meg, ha valóban értéket képvisel és a közösséghez kapcsolódik.
+If you see there is free space, you can join and ask if you can stay, but if the people inside do not want you there, it is polite to leave.
 
---
-
-1.40
-Ne csatlakozz engedély nélkül a hangcsatornákhoz
-
-Ha látod, hogy van szabad hely, beléphetsz és megkérdezheted, van-e helyed, de ha a bent lévők nem szeretnék, hogy maradj, illik távozni.
-
---
-
-1.50
-Tilos bármilyen félrevezető viselkedés
-
-beleértve a hamis információk terjesztését vagy mások szándékos megtévesztését. Ide tartozik a drámahajhászás és minden ami nem a TurulZ és DayZvel kapcsolatos.
-
-Amennyiben problémád van, vagy úgy érzed igazságtalanul bántak veled kérjük, hogy jelezd nekünk egy https://discord.com/channels/1337655121835720716/1343433582890455131 létrehozásával, és ne privát vagy közösségi csatornán!
 
 ## Wrap up
 
-Szabályszegés esetén az adminok és moderátorok saját belátásuk szerint némíthatnak vagy bannolhatnak
+In case of rule-breaking, admins and moderators may mute or ban at their own discretion.
 
-Ez egy Turul DayZ közösség; kérünk benneteket, hogy a szerveren és a Discordon is kizárólag a DayZ-zel és a TurulZ-zel kapcsolatos tartalmakat osszatok meg. Kérjük, kerüljétek az egyéb, nem ide tartozó témákat, például a politikát vagy a személyes jellegű problmákat.
-
-Discordos szabályszegés esetén a legtöbb esetben azonnali és végleges Discord bant adunk. Kérjük, tartsátok tiszteletben ezt a döntést azzal, hogy betartjátok a szabályokat.
+This is a Turul DayZ community; please share only DayZ- and TurulZ-related content on both the server and Discord. Please avoid other unrelated topics.
 
 --
 
-Egy ticket megnyitásakor adjatok meg minél több releváns információt a problémáról
+When opening a ticket, provide as much relevant information about the problem as possible.
 
-Abban az esetben, ha van rá lehetőségetek adjátok meg az esemény időpontját, helyszínét, valamint az érintett játékos vagy játékosok nevét. Minél részletesebb a leírás, annál hatékonyabban tudunk segíteni a megoldásban.
+If possible, include the time and location of the incident, as well as the name or names of the involved player(s). The more detailed the description, the more effectively we can help.
 
-Ha rendelkezésre állnak, csatoljatok képernyőképeket vagy videófelvételeket, amelyek bemutatják a problémát. Ezek az anyagok nagyban hozzájárulnak ahhoz, hogy gyorsabban, pontosabban azonosítsuk és orvosoljuk a felmerült problémát.
+If available, attach screenshots or video recordings that show the issue. These materials help us identify and resolve problems faster and more accurately.
 
-Miután létrehoztátok a ticketet, igyekszünk a lehető leghamarabb foglalkozni az üggyel. Kérünk titeket, hogy legyetek türelmesek.
+After you open the ticket, we will try to handle it as soon as possible. Please be patient.
