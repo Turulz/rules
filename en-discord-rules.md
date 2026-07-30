@@ -3,9 +3,9 @@
 ## 1
 
 1.00
-Our Discord server exists to be a friendly, safe community space where everyone can feel comfortable. The following basic rules apply to everyone - whether in text, voice, or private messages.
+Our Discord server is intended to be a friendly and safe community where everyone feels welcome and comfortable. These basic rules apply to all members across text channels, voice channels and server-related private messages.
 
-You must respect every survivor, whether you like them or not. Treat others the way you want to be treated.
+Treat every survivor with respect, whether you like them or not. Treat others as you would expect to be treated.
 
 --
 
@@ -40,12 +40,6 @@ Advertising other servers, sending invite links, or promoting them is forbidden.
 We do not tolerate advertising in any form. If you want to share your own content (video, artwork), you may only do so in the https://discord.com/channels/1337655121835720716/1397373748289736704 channel, and only if it genuinely adds value and is related to this community.
 
 --
-
-1.30
-Do not join voice channels without permission.
-
-If you see there is free space, you can join and ask if you can stay, but if the people inside do not want you there, it is polite to leave.
-
 
 ## Wrap up
 
