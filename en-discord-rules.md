@@ -50,7 +50,7 @@ If you see there is free space, you can join and ask if you can stay, but if the
 
 ## Wrap up
 
-In case of rule-breaking, admins and moderators may mute or ban at their own discretion.
+If you break the rules, admins and moderators may mute or ban you at their discretion.
 
 This is a Turul DayZ community; please share only DayZ- and TurulZ-related content on both the server and Discord. Please avoid other unrelated topics.
 
