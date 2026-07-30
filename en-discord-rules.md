@@ -10,7 +10,9 @@ You must respect every survivor, whether you like them or not. Treat others the 
 --
 
 1.10
-Strictly forbidden
+Prohibited content and behaviour
+
+The following are not allowed on this server:
 
 Encouraging, promoting or romanticising self-harm or suicide.
 
