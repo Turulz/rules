@@ -12,26 +12,23 @@ You must respect every survivor, whether you like them or not. Treat others the 
 1.10
 Strictly forbidden
 
-Encouraging self-harm or suicide, or romanticising them.
+Encouraging, promoting or romanticising self-harm or suicide.
 
-Harassment / bullying: no targeted harassment, dogpiling, stalking, doxxing, threats.
+Harassment or bullying, including targeted abuse, dogpiling, stalking, doxxing or threats.
 
-Sharing animal cruelty or graphic violent content.
+Sharing graphic violence, animal cruelty or other disturbing content.
 
-No spam is allowed - this includes mass pings, excessive emojis, link spam, and copypasta flooding.
+Spamming, including mass pings, excessive emoji use, repeated messages, link spam or copypasta flooding.
 
-Sharing illegal content - including posts related to drugs or weapons, as well as content related to scams. For example: fraud, deception, or financial abuse.
-
-Sexualising minors in any form, or sharing adult content with minors.
+Sharing, promoting or facilitating illegal activity, including scams, fraud, financial abuse, illegal drugs or weapons.
 
 Impersonating others or using a fake profile.
 
-Sexism, racism, homophobia, or any hateful behaviour.
+Sexism, racism, homophobia or any other hateful or discriminatory behaviour.
 
-Sharing pornographic, adult, or other NSFW content is forbidden.
+Sharing pornographic, adult or other NSFW content.
 
-TLDR
-Behave normally!
+TL;DR: Behave normally, treat others with respect and use common sense.
 
 --
 
